@@ -53,8 +53,8 @@ The data includes information about:
 - Regions and provinces
 - Shipping modes and shipping costs
 ```
-
-### 3. 🔄 Project Workflow
+**
+### 3. 🔄 Project Workflow**
 
 This is actually useful for your interview because it shows how you approached the project.
 
