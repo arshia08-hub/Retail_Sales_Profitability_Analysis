@@ -52,11 +52,9 @@ The data includes information about:
 - Sales, quantity, discounts, and profit
 - Regions and provinces
 - Shipping modes and shipping costs
-```
-**
-### 3. 🔄 Project Workflow**
 
-This is actually useful for your interview because it shows how you approached the project.
+
+### 3. 🔄 Project Workflow
 
 1. **Data Collection**
    - Loaded the raw retail sales dataset.
@@ -78,7 +76,7 @@ This is actually useful for your interview because it shows how you approached t
    - Connected Power BI to PostgreSQL.
    - Created KPI cards, charts, and interactive filters.
    - Built a dashboard focused on sales and profitability.
-```
+
 
 ### 4. 💡 Key Insights
 - **Technology** was the most profitable product category, generating approximately **$886K in profit** from around **$5.98M in sales**.
